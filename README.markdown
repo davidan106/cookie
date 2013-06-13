@@ -14,10 +14,10 @@
     *  `wget --load-cookies=/tmp/cookies.txt http://mysite.com` or `curl --cookie /tmp/cookies.txt http://mysite.com `
 
 
-##idea
+##idea（step by step）
 * 使用浏览器(firefox,chrome)生成的cookie文件,通过php/python脚本来模拟登陆weibo，抓取相关的数据，或者抓取自己订阅的blog文章(rss-xml),
 * 然后对抓取的微博/文章分词，提取特征，分类等。（这个还在摸索ing,不知是否可以将分好类的文章，自动生成一些tags,这样user可以使用这些来选择喜好的tags来阅读）
-* 最后通过user订阅的tags进行推荐文章/weibo(舆情监控)。(木头绪，摸索ing)
+* 最后通过user订阅的tags进行推荐文章(赞)/weibo(舆情监控)。(木头绪，摸索ing)
 
 ####参考:
 * [http://baike.baidu.com/view/835.htm](http://baike.baidu.com/view/835.htm)
@@ -30,9 +30,9 @@
 * QQ: 19165635*
 * weibo: [@weedge](http://weibo.com/weedge)
 * twitter: [@weege_007](http://twitter.com/weege_007)
-```javascript
-  $ weedge = array(
+* <code>
+  $weedge = array(
     nickName  : "时间飘过~",
     site : "http://weedge.me" 
-  )
-```
+  );
+  </code>
