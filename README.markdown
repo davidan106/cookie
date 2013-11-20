@@ -25,6 +25,7 @@
 * [快速构建实时抓取集群](http://www.searchtb.com/2011/07/%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E5%AE%9E%E6%97%B6%E6%8A%93%E5%8F%96%E9%9B%86%E7%BE%A4.html)
 * [如何计算两个文档的相似度全文文档](http://www.52nlp.cn/%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97%E4%B8%A4%E4%B8%AA%E6%96%87%E6%A1%A3%E7%9A%84%E7%9B%B8%E4%BC%BC%E5%BA%A6%E5%85%A8%E6%96%87%E6%96%87%E6%A1%A3)
 * [百万用户时尚分享网站feed系统扩展实践](http://www.csdn.net/article/2013-11-07/2817430-design-decisions-for-scaling-your-high-traffic-feeds?utm_campaign=Manong_Weekly_Issue_10&utm_medium=EDM&utm_source=Manong_Weekly)
+
 ##关于作者
 * 邮件/g+(weege007#gmail.com, 把#换成@)
 * QQ: 19165635*
